@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/GENO/IdeaProjects/accident-management-system/avro-schemas/target/classes;C:/Users/GENO/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar;C:/Users/GENO/.m2/repository/io/confluent/kafka-schema-serializer/6.2.0/kafka-schema-serializer-6.2.0.jar;C:/Users/GENO/.m2/repository/io/swagger/swagger-annotations/1.6.2/swagger-annotations-1.6.2.jar;C:/Users/GENO/.m2/repository/org/lz4/lz4-java/1.7.1/lz4-java-1.7.1.jar;C:/Users/GENO/.m2/repository/org/glassfish/hk2/external/jakarta.inject/2.6.1/jakarta.inject-2.6.1.jar;C:/Users/GENO/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/2.1.6/jakarta.ws.rs-api-2.1.6.jar;C:/Users/GENO/.m2/repository/org/glassfish/jersey/core/jersey-common/2.34/jersey-common-2.34.jar;C:/Users/GENO/.m2/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar;C:/Users/GENO/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.12.5/jackson-databind-2.12.5.jar;C:/Users/GENO/.m2/repository/io/confluent/kafka-avro-serializer/6.2.0/kafka-avro-serializer-6.2.0.jar;C:/Users/GENO/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.5/jackson-annotations-2.12.5.jar;C:/Users/GENO/.m2/repository/com/github/luben/zstd-jni/1.4.9-1/zstd-jni-1.4.9-1.jar;C:/Users/GENO/.m2/repository/org/xerial/snappy/snappy-java/1.1.8.1/snappy-java-1.1.8.1.jar;C:/Users/GENO/.m2/repository/org/glassfish/hk2/osgi-resource-locator/1.0.3/osgi-resource-locator-1.0.3.jar;C:/Users/GENO/.m2/repository/io/confluent/common-utils/6.2.0/common-utils-6.2.0.jar;C:/Users/GENO/.m2/repository/org/apache/avro/avro/1.11.0/avro-1.11.0.jar;C:/Users/GENO/.m2/repository/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar;C:/Users/GENO/.m2/repository/io/confluent/kafka-schema-registry-client/6.2.0/kafka-schema-registry-client-6.2.0.jar;C:/Users/GENO/.m2/repository/org/apache/kafka/kafka-clients/6.2.0-ccs/kafka-clients-6.2.0-ccs.jar;C:/Users/GENO/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.12.5/jackson-core-2.12.5.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/GENO/IdeaProjects/accident-management-system/avro-schemas/src/main/java;C:/Users/GENO/IdeaProjects/accident-management-system/avro-schemas/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/GENO/IdeaProjects/accident-management-system/avro-schemas/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ams-schemas 2.1 API'
+-linkoffline
+'http://docs.oracle.com/javase/7/docs/api' 'C:/Users/GENO/IdeaProjects/accident-management-system/avro-schemas/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ams-schemas 2.1 API'
