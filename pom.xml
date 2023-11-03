@@ -75,8 +75,6 @@
         </developer>
     </developers>
 
-    <!--  | token: NjQxNTc2MzIxOTQ5OvSlKfU3/8kco/QqnpElpdbhxkDx -->
-
     <distributionManagement>
         <snapshotRepository>
             <id>sonatype-nexus-snapshots</id>
