@@ -95,6 +95,10 @@
                         <goals>
                             <goal>sign</goal>
                         </goals>
+                        <configuration>
+                            <keyname>F757A6D55A08FF4FBF674A734869A2B98D94B879</keyname>
+                            <passphrase>genadi1993</passphrase>
+                        </configuration>
                     </execution>
                 </executions>
             </plugin>
