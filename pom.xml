@@ -69,11 +69,16 @@
 
     <developers>
         <developer>
-            <id>ams</id>
+            <id>genadigeno</id>
             <name>Genadi Mumladze</name>
             <email>genadimumladze44@gmail.com</email>
         </developer>
     </developers>
+    <scm>
+        <url>https://github.com/genadigeno/ams-schemas</url>
+        <connection>scm:git:git://github.com/genadigeno/ams-schemas.git</connection>
+        <developerConnection>scm:git:ssh://github.com:genadigeno/ams-schemas.git</developerConnection>
+    </scm>
 
     <distributionManagement>
         <snapshotRepository>
