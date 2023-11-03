@@ -79,7 +79,12 @@
         <connection>scm:git:git://github.com/genadigeno/ams-schemas.git</connection>
         <developerConnection>scm:git:ssh://github.com:genadigeno/ams-schemas.git</developerConnection>
     </scm>
-
+    <licenses>
+        <license>
+            <name>The Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
     <distributionManagement>
         <snapshotRepository>
             <id>sonatype-nexus-snapshots</id>
