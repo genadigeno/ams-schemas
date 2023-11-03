@@ -1,6 +1,6 @@
 # Compiled class file
 *.class
-/target
+ignore/
 # Log file
 *.log
 
